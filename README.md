@@ -62,13 +62,6 @@ Generated artifacts include:
 make clean
 ```
 
-## Suggested GitHub metadata
-
-If you are publishing this repository on GitHub, these metadata values are recommended:
-
-- **Repository name**: `arm-minios-assembler-shell`
-- **Description**: `Educational bare-metal ARMv5 mini shell in assembly with UART I/O, command parsing, and virtual register management.`
-- **Topics**: `arm`, `armv5`, `assembly`, `bare-metal`, `embedded`, `uart`, `cross-compiler`, `operating-systems`, `computer-architecture`, `education`
 
 ## License
 
